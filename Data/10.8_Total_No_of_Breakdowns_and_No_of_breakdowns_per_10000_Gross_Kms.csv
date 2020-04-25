@@ -1,0 +1,51 @@
+Category (Col. 1),Name of the Undertaking (Col. 2),No. of breakdowns during the quarter ending - June 1970 (Col. 3),No. of breakdowns during the quarter ending - Sept. 1970 (Col. 4),No. of breakdowns during the quarter ending - Dec. 1970 (Col. 5),No. of breakdowns during the quarter ending - March 1971 (Col. 6),No. of breakdowns per 10000 G. Kms. During the quarter ending - June 1970 (Col. 7),No. of breakdowns per 10000 G. Kms. During the quarter ending - Sept. 1970 (Col. 8),No. of breakdowns per 10000 G. Kms. During the quarter ending - Dec. 1970 (Col. 9),No. of breakdowns per 10000 G. Kms. During the quarter ending - March 1971 (Col. 10),Note of No. of breakdowns during the quarter ending - Sept. 1970,Note of No. of breakdowns during the quarter ending - Dec. 1970,Note of No. of breakdowns during the quarter ending - March 1971,Note of No. of breakdowns per 10000 G. Kms. During the quarter ending - Sept. 1970,Note of No. of breakdowns per 10000 G. Kms. During the quarter ending - Dec. 1970,Note of No. of breakdowns per 10000 G. Kms. During the quarter ending - March 1971
+A. City Passenger Services,"APSRTC, Hyderabad",1206,1165,1152,1497,2.11,1.94,1.94,2.58,NA,NA,NA,NA,NA,NA
+A. City Passenger Services,"CSTC, Calcutta",24962,22147,24850,19675,33.84,35.85,37.84,33.63,NA,NA,NA,NA,NA,NA
+A. City Passenger Services,"DTC, Delhi",23274,23199,20684,19867,17.32,17.41,15.86,14.27,NA,NA,NA,NA,NA,NA
+A. City Passenger Services,"KSRTC, Trivandrum",408,368,523,482,2.2,1.7,2.4,2.1,NA,NA,NA,NA,NA,NA
+A. City Passenger Services,"MYSRTC, Bangalore",2219,2118,2324,2311,4,3.81,4.16,4.23,NA,NA,NA,NA,NA,NA
+A. City Passenger Services,"AMTS, Ahmedabad",6398,7172,6962,5816,9.02,9.92,9.41,8.14,NA,NA,NA,NA,NA,NA
+A. City Passenger Services,"BESTU, Bombay",11872,11993,12305,9849,5.26,5.1,5.38,4.24,NA,NA,NA,NA,NA,NA
+A. City Passenger Services,"PMTS, Poona",914,967,1205,974,2.2,2.15,2.69,2.12,NA,NA,NA,NA,NA,NA
+A. City Passenger Services,"CTU, Chandigarh",7,345,235,222,0.08,3.4,2.25,2.35,NA,NA,NA,NA,NA,NA
+A. City Passenger Services,"TSTD, Madras*",31667,28740,24271,20170,8.3,7.4,6.1,4.8,NA,NA,NA,NA,NA,NA
+A. City Passenger Services,"UPGR, Lucknow",243,486,157,151,0.78,1.06,0.39,0.3,NA,*,*,NA,*,*
+A. City Passenger Services,"J&KGTU, Srinagar*",3,4,5,6,0.06,0.07,0.08,0.11,NA,NA,NA,NA,NA,NA
+A. City Passenger Services,Total-City Services,103173,98704,94673,81020,0.92,0.87,0.83,0.7,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"APSRTC, Hyderabad",1505,1760,2010,2514,0.36,0.41,0.46,0.55,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"A & MSRTC, Gauhati*",165,120,125,330,0.43,0.34,0.35,0.91,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"BSRTC, Patna",2857,2960,2758,2330,1.89,1.98,1.81,1.59,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"GSRTC, Ahmedabad",2312,2247,3945,6035,0.35,0.46,0.64,0.84,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"KSRTC, Trivandrum",4658,4741,5071,5349,1.9,2,2.1,2.2,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"MPSRTC, Bairagarh",2275,2549,1624,2198,0.83,0.99,0.6,0.82,*,*,*,*,*,*
+B. District Passenger Services,"MSRTC, Bombay",8971,8009,8148,8437,0.85,0.92,0.84,0.78,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"MySRTC, Bangalore",1731,1655,1745,1816,0.41,0.4,0.42,0.42,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"PRTC, Patiala",84,193,294,168,0.13,0.26,0.37,0.2,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"RSRTC, Jaipur",363,318,292,198,0.6,0.53,0.49,0.32,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"NBSTC, Cooch-Behar",308,266,192,226,0.95,0.82,0.66,0.76,NA,*,*,NA,*,NA
+B. District Passenger Services,"HGTS, Chandigarh",262,284,246,182,0.16,0.16,0.12,0.08,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"PGTS, Chandigarh*",383,420,288,238,0.24,0.26,0.18,0.14,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"STSO, Cuttack",470,383,388,385,0.78,0.68,0.61,0.56,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"UPGR, Lucknow",1716,1952,1300,1302,0.87,0.93,0.3,0.3,NA,*,*,NA,*,*
+B. District Passenger Services,"NST, Dimapur",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"STS, A & N Islands**",182,178,167,224,9.4,8.9,8.2,10.9,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"ORTC, Berhampur",204,180,217,209,0.6,0.6,0.7,0.7,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,"J&KGTU, Srinagar",24,5,7,18,0.15,0.03,0.04,0.1,NA,NA,NA,NA,NA,NA
+B. District Passenger Services,Total-District Services,28470,28220,28817,32159,0.66,0.71,0.68,0.72,NA,NA,NA,NA,NA,NA
+C. Hill Passenger Services,"A&MSRTC, Gauhati*",8,45,50,76,0.08,0.83,0.61,1.08,NA,NA,NA,NA,NA,NA
+C. Hill Passenger Services,"MKRTC, Mandi",44,39,25,38,0.37,0.33,0.19,0.32,NA,NA,NA,NA,NA,NA
+C. Hill Passenger Services,"UPGR, Lucknow",151,133,108,121,0.51,0.47,0.4,0.45,NA,*,*,NA,*,*
+C. Hill Passenger Services,"J&KGTU, Srinagar*",2,4,5,5,0.02,0.04,0.05,0.07,NA,NA,NA,NA,NA,NA
+C. Hill Passenger Services,"HGT, Simla",357,345,498,375,0.96,1.03,1.31,1.08,NA,NA,NA,NA,NA,NA
+C. Hill Passenger Services,"MSTD, Imphal",43,45,23,153,0.75,0.8,0.5,2.85,NA,NA,NA,NA,NA,NA
+C. Hill Passenger Services,Total-Hill Services,605,611,709,768,0.58,0.42,0.7,0.49,NA,NA,NA,NA,NA,NA
+D. Goods Services,"CRTC, Calcutta*",NA,32,10,23,NA,0.13,0.25,0.07,NA,NA,NA,NA,NA,NA
+D. Goods Services,"NBSTC, Cooch-Behar",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+D. Goods Services,"MKRTC, Mandi",31,25,32,23,1,0.84,1.2,1.03,NA,NA,NA,NA,NA,NA
+D. Goods Services,"A&MSRTC, Gauhati*",19,95,93,99,0.22,1.2,1.22,1.31,NA,NA,NA,NA,NA,NA
+D. Goods Services,"J&KGTU, Srinagar*",102,211,198,188,0.19,0.3,0.31,0.34,NA,NA,NA,NA,NA,NA
+D. Goods Services,"UPGR, Lucknow",45,33,21,33,0.52,0.51,0.34,0.44,NA,*,*,NA,*,*
+D. Goods Services,"HGT, Simla",93,100,90,73,1.69,2.19,1.78,1.25,NA,NA,NA,NA,NA,NA
+D. Goods Services,"MSTD, Imphal",65,77,58,45,1.61,2.42,1.66,1.45,NA,NA,NA,NA,NA,NA
+D. Goods Services,"NST, Dimapur",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+D. Goods Services,Total-Goods Services,355,573,502,484,0.33,0.46,0.41,0.41,NA,NA,NA,NA,NA,NA

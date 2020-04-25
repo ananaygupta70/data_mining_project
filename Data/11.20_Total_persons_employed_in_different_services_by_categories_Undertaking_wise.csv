@@ -1,0 +1,45 @@
+Category (Col.1),Sub-category (Col.2),Type of Service/Name of the Undertaking (Col.3),At the Division and Depots - Administrative (Col.4),At the Division and Depots - Maintenance & repairs (Col.5),At the Division and Depots - Traffic operational staff - Drivers (Col.6),At the Division and Depots - Traffic operational staff - Conductors (Col.7),At the Division and Depots - Traffic operational staff - Others (Col.8),At the Division and Depots - Traffic operational staff - Total (Col.9),At the Central Units - Total (Col.10),At the Central Units - Office (Col.11),At the Central Units - Store (Col.12),At the Central Units - Regional workshop - Administration (Col.13),At the Central Units - Regional workshop - Repairs & Reconditioning (Col.14),Civil Engg. & others (Col.15),Total staff (Col.16)
+A. Passenger Transport,1. City Services,"APSRTC, Hyderabad",76,693,990,1120,539,2649,3418,195,81,11,322,121,4148
+A. Passenger Transport,1. City Services,"AMTS, Ahmedabad",279,844,1130,1119,451,2700,3823,NA,NA,NA,NA,NA,3823
+A. Passenger Transport,1. City Services,"J&KGTU, Srinagar*",26,36,NA,NA,NA,139,NA,NA,NA,NA,NA,NA,201
+A. Passenger Transport,1. City Services,"KSRTC, Trivandrum",124,180,429,420,68,917,1221,NA,NA,NA,NA,NA,1221
+A. Passenger Transport,1. City Services,"TSTD, Madras*",1580,5333,NA,NA,NA,11060,17973,NA,NA,NA,NA,NA,17973
+A. Passenger Transport,1. City Services,"BESTU, Bombay",739,2459,4064,5899,1164,11127,14325,309,283,186,1505,1055,17663
+A. Passenger Transport,1. City Services,"PMTS, Poona",256,580,NA,NA,NA,1763,2599,NA,NA,NA,NA,NA,2599
+A. Passenger Transport,1. City Services,"MySRTC, Bangalore",207,754,986,1456,378,2820,3781,NA,NA,NA,NA,NA,3781
+A. Passenger Transport,1. City Services,"UPGR, Lucknow*",164,569,NA,NA,NA,1387,2120,NA,NA,NA,NA,NA,2120
+A. Passenger Transport,1. City Services,"CSTC, Calcutta",840,2467,2032,4529,847,7408,10715,750,NA,NA,NA,621,12086
+A. Passenger Transport,1. City Services,"CTU, Chandigarh",53,62,108,121,NA,229,334,NA,NA,NA,NA,NA,344
+A. Passenger Transport,1. City Services,"DTC, Delhi",1037,478,NA,NA,NA,10643,12158,NA,NA,NA,NA,NA,12158
+2. District Services,(a) District-Plain Services,"APSRTC, Hyderabad",397,3283,4242,4501,2026,10769,14449,979,403,53,1616,610,18100
+2. District Services,(a) District-Plain Services,"A&MSRTC, Gauhati*",152,697,NA,NA,NA,1712,2561,NA,NA,NA,NA,NA,2561
+2. District Services,(a) District-Plain Services,"BSRTC, Patna",911,1539,NA,NA,NA,4515,6965,214,42,604,NA,NA,7825
+2. District Services,(a) District-Plain Services,"GSRTC, Ahmedabad",1821,6215,7488,7487,2824,17799,25835,436,236,208,305,877,27897
+2. District Services,(a) District-Plain Services,"HGTS, Chandigarh",658,1271,1430,1617,221,3268,5197,100,NA,NA,NA,NA,5297
+2. District Services,(a) District-Plain Services,"J&KGTU, Srinagar",98,135,NA,NA,NA,523,756,NA,NA,NA,NA,NA,756
+2. District Services,(a) District-Plain Services,"KSRTC, Trivandrum",1250,2058,3253,3245,585,7083,10391,406,178,166,884,714,12739
+2. District Services,(a) District-Plain Services,"MPSRTC, Bairagarh",1910,2436,2177,2187,728,5092,9438,269,57,63,645,100,10572
+2. District Services,(a) District-Plain Services,"MSRTC, Bombay",2631,10511,10316,10031,3818,24165,37307,667,387,290,1971,162,40784
+2. District Services,(a) District-Plain Services,"MySRTC, Bangalore",1684,4453,4033,3997,1217,9247,15384,NA,517,322,1098,911,18232
+2. District Services,(a) District-Plain Services,"STSO, Cuttack",800,1388,NA,NA,NA,1312,10720,NA,NA,NA,NA,NA,10720
+2. District Services,(a) District-Plain Services,"ORTC, Berhampur",363,240,271,246,256,773,1376,197,15,NA,96,82,1766
+2. District Services,(a) District-Plain Services,"PGTS, Chandigarh*",543,1175,NA,NA,NA,3164,4882,NA,NA,NA,NA,NA,4882
+2. District Services,(a) District-Plain Services,"PRTC, Patiala*",162,454,NA,NA,NA,1134,1750,NA,NA,NA,NA,NA,1750
+2. District Services,(a) District-Plain Services,"RSRTC, Jaipur",451,609,426,407,312,1145,2205,288,41,7,196,32,2769
+2. District Services,(a) District-Plain Services,"UPGR, Lucknow*",1723,4594,NA,NA,NA,16244,23561,NA,NA,NA,NA,NA,23561
+2. District Services,(a) District-Plain Services,"NBSTC, Cooch Behar",464,434,NA,NA,NA,1138,2036,NA,NA,NA,NA,NA,2036
+2. District Services,(a) District-Plain Services,"STS, A & N Islands*",NA,NA,NA,NA,NA,104,104,NA,NA,NA,NA,NA,104
+2. District Services,(b) District-Hill Services,"A&MSRTC, Gauhati*",16,74,NA,NA,NA,181,271,NA,NA,NA,NA,NA,271
+2. District Services,(b) District-Hill Services,"J&KGTU, Srinagar*",41,56,NA,NA,NA,215,312,NA,NA,NA,NA,NA,312
+2. District Services,(b) District-Hill Services,"UPGR, Lucknow*",131,455,NA,NA,NA,1108,1694,NA,NA,NA,NA,NA,1694
+2. District Services,(b) District-Hill Services,"HGT, Simla",152,368,NA,NA,NA,957,1477,NA,NA,NA,NA,NA,1477
+2. District Services,(b) District-Hill Services,"MKRTC, Mandi@",77,195,226,205,122,553,825,NA,NA,NA,NA,NA,825
+2. District Services,(b) District-Hill Services,"MSTD, Imphal@",140,267,158,94,42,294,701,NA,NA,NA,NA,NA,701
+B. Goods Services,B. Goods Services,"CRTC, Calcutta*",204,105,NA,NA,NA,401,710,NA,NA,NA,NA,NA,710
+B. Goods Services,B. Goods Services,"NBSTC, Cooch Behar*",64,67,NA,NA,NA,190,321,NA,NA,NA,NA,NA,321
+B. Goods Services,B. Goods Services,"MKRTC, Mandi",19,49,NA,NA,NA,145,213,NA,NA,NA,NA,NA,213
+B. Goods Services,B. Goods Services,"A&MSRTC, Gauhati*",34,135,NA,NA,NA,332,501,NA,NA,NA,NA,NA,501
+B. Goods Services,B. Goods Services,"J&KGTU, Srinagar*",351,484,NA,NA,NA,1875,2710,NA,NA,NA,NA,NA,2710
+B. Goods Services,B. Goods Services,"UPGR, Lucknow*",289,939,NA,NA,NA,2725,3953,NA,NA,NA,NA,NA,3953
+B. Goods Services,B. Goods Services,"MSTD, Imphal",73,132,NA,NA,NA,143,348,NA,NA,NA,NA,NA,348
+B. Goods Services,B. Goods Services,"HGT, Simla",49,120,NA,NA,NA,311,480,NA,NA,NA,NA,NA,480

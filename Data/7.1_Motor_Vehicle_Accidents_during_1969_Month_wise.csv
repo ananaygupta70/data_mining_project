@@ -1,0 +1,20 @@
+Category (Col. 1),State/ Union Territory (Col. 2),Total (Col. 3),January (Col. 4),February (Col. 5),March (Col. 6),April (Col. 7),May (Col. 8),June (Col. 9),July (Col. 10),August (Col. 11),September (Col. 12),October (Col. 13),November (Col. 14),December (Col. 15),Note of December
+State,Andhra Pradesh,3027,298,298,280,289,279,236,186,228,229,263,200,251,NA
+State,Bihar,3687,325,282,314,272,372,334,321,255,299,326,292,295,NA
+State,Gujarat,3191,298,260,302,259,307,280,285,229,199,234,250,288,*
+State,Jammu & Kashmir,159,13,15,13,5,10,10,11,18,23,12,13,16,NA
+State,Kerala,4156,394,361,381,384,365,324,262,315,293,352,343,382,NA
+State,Maharashtra,34077,2983,2486,2883,2921,2879,2983,2932,2804,2587,2731,2841,3047,NA
+State,Nagaland,36,3,NA,2,NA,6,1,1,2,2,11,7,1,NA
+State,Orissa,2143,178,180,209,204,234,181,175,147,158,158,164,155,NA
+State,Rajasthan,1257,110,98,95,107,124,129,91,101,125,93,111,73,NA
+State,Tamil Nadu,11696,906,801,1011,1029,983,1063,1032,1060,951,926,1008,926,NA
+Union Territory,A & N Islands,54,7,3,4,4,3,8,6,7,5,4,1,2,NA
+Union Territory,Chandigarh,113,11,10,7,3,10,7,20,8,10,9,11,7,NA
+Union Territory,Delhi,8014,633,539,659,622,658,640,714,673,727,734,734,681,NA
+Union Territory,Dadra & Nagar Haveli,12,1,NA,2,1,3,2,NA,NA,NA,1,NA,2,NA
+Union Territory,"Goa, Daman & Diu",665,58,55,50,61,70,58,45,40,63,56,54,61,NA
+Union Territory,Himachal Pradesh,231,16,15,19,20,14,23,16,16,20,26,15,25,NA
+Union Territory,Manipur,116,11,11,9,13,7,11,7,7,6,11,11,12,NA
+Union Territory,Pondicherry,167,13,13,11,21,20,14,11,17,9,11,12,15,NA
+Union Territory,Tripura,172,17,16,11,17,21,17,17,2,5,12,16,21,NA

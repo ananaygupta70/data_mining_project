@@ -1,0 +1,21 @@
+Category (Col.1),State/ Union Territory (Col.2),Total (Col.3),Collision with - Other Motor Vehicles (Col.4),Collision with - Cyclists (Col.5),Collision with - Cycle rick-shaws (Col.6),Collision with - Bullock Carts etc. (Col.7),Collision with - Pedestrians (Col.8),Collision with - Animals (Col.9),Collision with - Trees (Col.10),Collision with - Trains (Col.11),Other kinds of Accidents* (Col.12)
+State,Andhra Pradesh,3260,666,378,159,88,1095,80,54,10,730
+State,Assam,1024,125,108,48,32,384,14,1,18,294
+State,Bihar,3921,137,274,64,160,672,243,134,38,2199
+State,Gujarat,3851,1370,194,295,84,959,166,70,69,644
+State,Himachal Pradesh,238,76,4,NA,2,12,8,20,2,114
+State,Jammu & Kashmir,530,232,12,1,NA,68,20,8,NA,189
+State,Kerala,4214,401,327,38,51,2068,16,17,26,1270
+State,Maharashtra,36115,19143,1889,119,478,8016,456,156,132,5726
+State,Mysore,5821,1511,531,36,189,1847,118,126,13,1900
+State,Nagaland,25,4,NA,NA,NA,3,2,NA,NA,16
+State,Orissa,2045,161,140,41,74,570,121,96,31,811
+State,Rajasthan,1576,305,136,16,50,519,43,14,8,485
+State,Tamil Nadu,12486,2666,1967,216,617,3691,154,295,97,2783
+Union Territory,A & N Islands,34,3,1,NA,NA,7,NA,1,NA,22
+Union Territory,Delhi,7793,3828,1351,53,69,1896,180,19,4,393
+Union Territory,Dadra & Nagar Haveli,13,1,NA,NA,NA,2,2,1,NA,7
+Union Territory,"Goa, Daman & Diu",817,246,75,NA,9,111,18,7,NA,351
+Union Territory,Manipur,125,18,15,5,3,31,5,NA,NA,48
+Union Territory,Pondicherry,186,18,34,7,6,52,NA,9,NA,60
+Union Territory,Tripura,177,19,19,1,NA,1,NA,NA,NA,137

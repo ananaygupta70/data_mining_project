@@ -1,0 +1,21 @@
+Category (Col. 1),State/ Union Territory (Col. 2),Total (Col. 3),Day Light (Col. 4),Darkness (Col. 5),Time not known (Col. 6)
+State,Andhra Pradesh,3260,2396,810,54
+State,Assam,1024,719,272,33
+State,Bihar,3921,2569,926,426
+State,Gujarat,3851,2799,977,75
+State,Himachal Pradesh,238,183,48,7
+State,Jammu & Kashmir,530,349,126,55
+State,Kerala,4214,3251,914,49
+State,Maharashtra,36115,25115,10852,148
+State,Mysore,5821,4203,1576,43
+State,Nagaland,25,10,7,8
+State,Rajasthan,1576,725,496,355
+State,Orissa,2045,1334,548,163
+State,Tamil Nadu,12486,8467,3882,137
+Union Territory,A & N Islands,34,26,8,NA
+Union Territory,Delhi,7793,5147,2539,107
+Union Territory,Dadra & Nagar Haveli,13,8,5,NA
+Union Territory,"Goa, Daman & Diu",817,661,153,3
+Union Territory,Manipur,125,79,38,8
+Union Territory,Pondicherry,186,141,45,NA
+Union Territory,Tripura,177,137,NA,13

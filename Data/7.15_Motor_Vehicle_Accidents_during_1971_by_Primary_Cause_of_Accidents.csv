@@ -1,0 +1,14 @@
+Category (Col. 1),State/ Union Territory (Col. 2),Total (Col. 3),Fault of driver of M.V. (Col. 4),Fault of driver of Veh. Other than a M.V. (Col. 5),Fault of cyclist (Col. 6),Fault of Pedestrians (Col. 7),Fault of Passengers (Col. 8),Defect in mechanical condition of M.V. (Col. 9),Defective road surface (Col. 10),Bad weather conditions (Col. 11),Other causes (Col. 12),Causes not known (Col. 13)
+State,Andhra Pradesh,3565,2086,53,230,392,65,201,23,14,428,73
+State,Assam,691,389,65,29,43,17,34,17,1,46,50
+State,Bihar,4062,1839,548,199,403,190,221,65,60,261,276
+State,Gujarat,4194,2978,117,240,365,18,214,23,20,192,27
+State,Jammu & Kashmir,528,249,25,8,21,4,59,5,5,81,71
+State,Kerala,4319,2944,79,165,361,72,240,98,67,159,134
+State,Maharashtra,40793,7449,1939,1221,5202,150,1187,350,451,2991,1853
+State,Mysore,5679,4613,250,55,183,48,224,26,15,171,94
+Union Territory,Pondicherry,184,76,12,9,38,5,3,NA,NA,14,27
+Union Territory,"Goa, Daman & Diu",837,357,59,32,82,16,95,20,58,110,8
+Union Territory,Chandigarh,124,120,1,NA,NA,1,NA,NA,NA,1,1
+Union Territory,Delhi,6801,6573,14,78,28,24,3,5,2,56,18
+Union Territory,Tripura,263,177,9,2,25,3,17,NA,10,14,6

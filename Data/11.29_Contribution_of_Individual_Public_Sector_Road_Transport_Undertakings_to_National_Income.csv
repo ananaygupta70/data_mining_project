@@ -1,0 +1,30 @@
+Items (Col. 1),Category (Col. 2),Sub-category (Col. 3),Type of Service/Undertaking (Col. 4),Total expenditure on personnel (Col. 5),Current expenditure (Col. 6),Net profits (Col. 7),Total Contribution (Col. 8)
+A. Passenger Transport,1. City Services,1. City Services,"TSTD, Madras**",45674,41692,5086,82280
+A. Passenger Transport,1. City Services,1. City Services,"CSTC, Calcutta",42469,13830,45966,10333
+A. Passenger Transport,1. City Services,1. City Services,"AMTS, Ahmedabad",16956,6128,1825,21259
+A. Passenger Transport,1. City Services,1. City Services,"BESTU, Bombay",80693,29008,9949,99752
+A. Passenger Transport,1. City Services,1. City Services,"PMTS, Poona",8548,4990,1395,12143
+A. Passenger Transport,1. City Services,1. City Services,"DTC, Delhi",45705,7313,35407,17611
+A. Passenger Transport,1. City Services,1. City Services,"CTU, Chandigarh",1417,403,749,2569
+A. Passenger Transport,2. District Services,2. District Services,"BSRTC, Patna",20680,17887,2179,36398
+A. Passenger Transport,2. District Services,2. District Services,"GSRTC, Ahmedabad",85648,111371,18792,215811
+A. Passenger Transport,2. District Services,2. District Services,"MPSRTC, Bairagarh",27479,33035,3818,56696
+A. Passenger Transport,2. District Services,2. District Services,"MSRTC, Bombay",138859,162449,11515,289793
+A. Passenger Transport,2. District Services,2. District Services,"PRTC, Patiala**",5145,4247,2686,12078
+A. Passenger Transport,2. District Services,2. District Services,"HGTS, Chandigarh",17420,9513,20048,46981
+A. Passenger Transport,2. District Services,2. District Services,"STSO, Cuttack**",6845,5318,2344,14507
+A. Passenger Transport,2. District Services,2. District Services,"PGTS, Chandigarh**",15298,4865,11548,31711
+A. Passenger Transport,2. District Services,2. District Services,"RSRTC, Jaipur",7264,5221,2007,14492
+A. Passenger Transport,2. District Services,2. District Services,"STS, A&N Islands",179,84,2,265
+A. Passenger Transport,2. District Services,2. District Services,"ORTC, Berhampur",4119,2380,3033,9532
+A. Passenger Transport,3. City and District Services,3. City and District Services,"APSRTC, Hyderabad",60383,66048,2925,129356
+A. Passenger Transport,3. City and District Services,3. City and District Services,"KSRTC, Trivandrum",48319,28987,12565,64741
+A. Passenger Transport,3. City and District Services,3. City and District Services,"MySRTC, Bangalore",62206,56987,15660,134853
+B. Passenger-cum-Goods Transport,B. Passenger-cum-Goods Transport,B. Passenger-cum-Goods Transport,"NBSTC, Cooch-Behar**",7024,2440,2313,7151
+B. Passenger-cum-Goods Transport,B. Passenger-cum-Goods Transport,B. Passenger-cum-Goods Transport,"MKRTC, Mandi",3020,1893,1375,3538
+B. Passenger-cum-Goods Transport,B. Passenger-cum-Goods Transport,B. Passenger-cum-Goods Transport,"A&MSRTC, Gauhati**",11918,4838,10726,6030
+B. Passenger-cum-Goods Transport,B. Passenger-cum-Goods Transport,B. Passenger-cum-Goods Transport,"UPGR, Lucknow**",70015,23504,22653,117172
+B. Passenger-cum-Goods Transport,B. Passenger-cum-Goods Transport,B. Passenger-cum-Goods Transport,"HGT, Simla",8527,3954,5669,6812
+B. Passenger-cum-Goods Transport,B. Passenger-cum-Goods Transport,B. Passenger-cum-Goods Transport,"MSTD, Imphal",2085,673,1161,1597
+B. Passenger-cum-Goods Transport,B. Passenger-cum-Goods Transport,B. Passenger-cum-Goods Transport,"J&KGTU, Srinagar**",9661,9336,348,19345
+C. Goods Transport,C. Goods Transport,C. Goods Transport,"CRTC, Calcutta",2695,2156,2291,2560

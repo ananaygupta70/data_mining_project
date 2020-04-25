@@ -1,0 +1,21 @@
+Category (Col. 1),State/ Union Territory (Col. 2),All types of vehicles (Col. 3),Motor Cycles (Col. 4),Auto-rickshaws (Col. 5),Jeeps (Col. 6),Motor Cars (Col. 7),Motor Cabs (Col. 8),Buses (Col. 9),Goods Vehicles (Col. 10),Misc. vehicles (Col. 11),Note of State/ Union Territory
+State,Andhra Pradesh,31.35,7.52,154,32.65,16.45,75.5,95,63.3,28.82,NA
+State,Assam,24.9,11.65,52.75,23.4,16.3,145.7,64,18.21,22,NA
+State,Bihar,54.5,12.5,177.3,60,33.05,157.5,87,81,121,NA
+State,Gujarat,30.4,7.66,59,23.95,16.7,113.5,99.25,53.75,27.05,NA
+State,Himachal Pradesh,60.3,11.14,NA,66.25,104.5,NA,112,17.62,64.3,@
+State,Jammu & Kashmir,50.9,11.21,420.5,75.4,27,193,97,50.6,57.9,@
+State,Kerala,54.3,19.9,325,112.5,24.05,77,146,55,84.02,NA
+State,Maharashtra,130.01,33.25,138.33,87.45,138.31,352.52,404.19,127.02,164.5,NA
+State,Mysore,52.94,19.36,95.31,42.19,43.65,112.65,109.53,93.97,56.29,NA
+State,Nagaland,15.8,33.33,NA,10.6,19.1,NA,NA,7.5,NA,NA
+State,Orissa,69.7,24.88,235.29,60.86,52.87,139.17,153.85,93.98,66.69,*
+State,Rajasthan,22.03,11.47,NA,NA,9.2,6.32,35.83,3.35,18.32,@
+State,Tamil Nadu,105.7,46.6,105,52.4,61.6,176,310,187.5,195,NA
+Union Territory,A & N Islands,39.35,10.84,NA,18.78,32.9,367,107,32.8,44,NA
+Union Territory,Delhi,51.2,17.78,79.5,NA,47.2,159.5,446,130,470,NA
+Union Territory,Dadra & Nagar Haveli,28.9,26.6,NA,143,NA,334,NA,93.5,71.4,NA
+Union Territory,"Goa, Daman & Diu",80.4,47.5,83.25,482,368,18.5,242.5,45.1,384,@
+Union Territory,Manipur,48.7,24.62,NA,39.63,9.91,NA,168.5,35,108,NA
+Union Territory,Pondicherry,52,16,250,89,36.9,295,394,125,47,NA
+Union Territory,Tripura,47.9,14.16,NA,36.16,276.32,10.26,78.43,31.68,32.09,NA

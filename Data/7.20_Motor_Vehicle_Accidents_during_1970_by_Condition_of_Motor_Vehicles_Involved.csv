@@ -1,0 +1,21 @@
+Category (Col. 1),State/ Union Territory (Col. 2),Total (Col. 3),Over loaded (Col. 4),Defective brakes (Col. 5),Defective Steering (Col. 6),In sufficient or nor lights (Col. 7),Puncture or burst (Col. 8),Other serious mechanical defects (Col. 9),Left hand steering (Col. 10)
+State,Andhra Pradesh,412,66,91,49,34,14,96,62
+State,Assam,457,174,65,42,61,43,27,45
+State,Bihar,838,605,83,37,32,12,42,27
+State,Gujarat,248,73,62,25,33,23,26,6
+State,Himachal Pradesh,74,26,8,2,1,8,3,26
+State,Jammu & Kashmir,55,4,5,1,1,2,26,16
+State,Kerala,524,150,94,77,11,42,62,88
+State,Maharashtra,1838,406,393,199,111,141,364,224
+State,Mysore,296,133,43,12,6,29,37,36
+State,Nagaland,2,NA,2,NA,NA,NA,NA,NA
+State,Orissa,419,117,59,19,16,27,35,146
+State,Rajasthan,46,5,7,2,3,NA,29,NA
+State,Tamil Nadu,2707,603,724,282,134,220,574,169
+Union Territory,A & N Islands,NA,NA,NA,NA,NA,NA,NA,NA
+Union Territory,Dadra & Nagar Haveli,3,NA,1,NA,1,1,NA,NA
+Union Territory,"Goa, Daman & Diu",184,43,34,9,12,14,63,9
+Union Territory,Manipur,42,NA,NA,NA,NA,NA,5,37
+Union Territory,Pondicherry,10,9,1,NA,NA,NA,NA,NA
+Union Territory,Tripura,NA,NA,NA,NA,NA,NA,NA,NA
+Union Territory,Delhi,NA,NA,NA,NA,NA,NA,NA,NA
